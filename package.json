@@ -1,0 +1,7 @@
+{
+  "name": "ci-cd-github-actions-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'No tests available' && exit 0"
+  }
+}
